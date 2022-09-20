@@ -9,10 +9,10 @@
 ## Realisatie
 
 ### Wat is de missie en visie van het bedrijf?
-    Een website die hun games weergeeft
+    Een website die games weergeeft
     
 ### Welke producten/services worden er geleverd?
-    Games
+    Het weergeven van de nieuwste games
 
 ### Wat is het doel van je nieuwe website?
     Het makkelijk maken voor de klant om te zien wat voor games ze hebben met wat informatie er over.
