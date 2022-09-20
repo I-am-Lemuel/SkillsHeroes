@@ -26,3 +26,7 @@
     - leeftijd
     - spelduur
     - foto
+
+## Test verslag
+    Ik heb de pagian getest door de groote van de window aantepassen
+    en ik heb wat rond geclicked.
