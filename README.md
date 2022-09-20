@@ -4,6 +4,7 @@
     Editor: VS Code
     Framework: NextJS
     Taal: Javascript
+    Color Theme: Nord
     
 ## Realisatie
 
