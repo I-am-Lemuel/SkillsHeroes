@@ -1,14 +1,27 @@
-## Personal Portfolio
+# Plan van aanpak
 
-### [Live Site](https://jsmasterypro.com)
+## Tech Stack
+    Editor: VS Code
+    Framework: NextJS
+    Taal: Javascript
+    
+## Realisatie
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+### Wat is de missie en visie van het bedrijf?
+    Een website die hun games weergeeft
+    
+### Welke producten/services worden er geleverd?
+    Games
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+### Wat is het doel van je nieuwe website?
+    Het makkelijk maken voor de klant om te zien wat voor games ze hebben met wat informatie er over.
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
-
-Setup:
-- run ```npm i && npm start```
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+### Welke basis content wil ik op de website hebben?
+    De verschillende kenmerken van een spel zijn zichtbaar:
+    - naam
+    - prijs
+    - aantal spelers
+    - type
+    - leeftijd
+    - spelduur
+    - foto
