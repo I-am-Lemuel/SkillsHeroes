@@ -6,6 +6,7 @@ import { CardContainer } from "./CardStyles";
 
 const Card = ({ children }) => (
     <CardContainer>
+        {/* content in the cards, the image and the text. */}
         <main>{children}</main>
     </CardContainer>
 );

@@ -4,13 +4,15 @@ import { MainContainer, MainContent } from "./MainStyles";
 import MainHeader from "../MainHeader/MainHeader";
 import Card from "../Card/Card";
 
+// Main component that will be used in the layout component to display the main content on every page
+
 const Main = () => (
     <MainContainer>
         <MainHeader />
         <MainContent>
-            <h1>
+            <h2>
                 New Games
-            </h1>
+            </h2>
             <Card>
                 <Image src="/images/Overwatch2.jpg" alt="logo" width={602} height={338} />
                 <h1>Overwatch 2</h1>
