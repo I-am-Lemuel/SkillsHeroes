@@ -4,14 +4,15 @@
     Editor: VS Code
     Framework: NextJS
     Taal: Javascript
+    Color Theme: Nord
     
 ## Realisatie
 
 ### Wat is de missie en visie van het bedrijf?
-    Een website die hun games weergeeft
+    Een website die games weergeeft
     
 ### Welke producten/services worden er geleverd?
-    Games
+    Het weergeven van de nieuwste games
 
 ### Wat is het doel van je nieuwe website?
     Het makkelijk maken voor de klant om te zien wat voor games ze hebben met wat informatie er over.
@@ -25,3 +26,7 @@
     - leeftijd
     - spelduur
     - foto
+
+## Test verslag
+    Ik heb de pagian getest door de groote van de window aantepassen
+    en ik heb wat rond geclicked.
